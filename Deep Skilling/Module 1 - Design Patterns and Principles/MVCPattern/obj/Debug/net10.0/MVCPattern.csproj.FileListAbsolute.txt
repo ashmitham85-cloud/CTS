@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\bin\Debug\net10.0\MVCPattern.exe
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\bin\Debug\net10.0\MVCPattern.deps.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\bin\Debug\net10.0\MVCPattern.runtimeconfig.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\bin\Debug\net10.0\MVCPattern.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\bin\Debug\net10.0\MVCPattern.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.AssemblyInfo.cs
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net10.0\refint\MVCPattern.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.genruntimeconfig.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net10.0\ref\MVCPattern.dll
