@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.exe
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.deps.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.runtimeconfig.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.AssemblyInfo.cs
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net10.0\refint\SortingCustomerOrders.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.genruntimeconfig.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net10.0\ref\SortingCustomerOrders.dll
