@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.exe
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.deps.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.runtimeconfig.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\obj\Debug\net10.0\refint\BuilderPattern.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\BuilderPattern\BuilderPattern\obj\Debug\net10.0\ref\BuilderPattern.dll
