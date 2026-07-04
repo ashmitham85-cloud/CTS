@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.exe
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.deps.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\refint\EmployeeManagementSystem.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\ref\EmployeeManagementSystem.dll
