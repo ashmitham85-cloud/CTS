@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.exe
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.deps.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.runtimeconfig.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\refint\FactoryMethodPattern.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.genruntimeconfig.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\ref\FactoryMethodPattern.dll
