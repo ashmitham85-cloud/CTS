@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\bin\Debug\net10.0\ECommerceSearch.exe
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\bin\Debug\net10.0\ECommerceSearch.deps.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\bin\Debug\net10.0\ECommerceSearch.runtimeconfig.json
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\bin\Debug\net10.0\ECommerceSearch.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\bin\Debug\net10.0\ECommerceSearch.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.AssemblyInfo.cs
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\refint\ECommerceSearch.dll
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.pdb
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.genruntimeconfig.cache
+C:\Users\HP\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ref\ECommerceSearch.dll
