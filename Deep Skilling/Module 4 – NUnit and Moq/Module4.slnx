@@ -1,0 +1,19 @@
+<Solution>
+  <Project Path="AccountsManagerLib.Tests/AccountsManagerLib.Tests.csproj" Id="5fc1454a-ce9c-4544-8211-ccad5d929925" />
+  <Project Path="AccountsManagerLib/AccountsManagerLib.csproj" Id="d5568519-7524-4484-9afa-64c0fae50080" />
+  <Project Path="CalcLibrary.Tests/CalcLibrary.Tests.csproj" Id="f225a6d1-fcaf-4685-8423-dacd576efba6" />
+  <Project Path="CalcLibrary/CalcLibrary.csproj" Id="79ac198e-eaaa-419b-ac4e-b8fda561cbfd" />
+  <Project Path="CollectionsLib.Tests/CollectionsLib.Tests.csproj" Id="52e9974d-031a-4517-a719-4ba9f8ea7003" />
+  <Project Path="CollectionsLib/CollectionsLib.csproj" Id="ee7e3e2a-3f1f-45fe-bdbf-1b0e78bbe229" />
+  <Project Path="ConverterLib.Tests/ConverterLib.Tests.csproj" Id="bc549419-0fc4-4aca-bf14-81d79f7a2934" />
+  <Project Path="ConverterLib/ConverterLib.csproj" Id="8aad718b-9383-4dab-ace8-39c6f3846c24" />
+  <Project Path="CurrencyConverterApp/CurrencyConverterApp.csproj" Id="81b2e9f9-3361-48ee-b9f6-bf80dfd2a17c" />
+  <Project Path="FourSeasonsLib/SeasonsLib.csproj" Id="61f53a84-0cc2-466e-a701-6cdc0ddc9993" />
+  <Project Path="LeapYearCalculatorLib.Tests/LeapYearCalculatorLib.Tests.csproj" Id="22374e23-6b78-48aa-aa52-c0d45b2e75ab" />
+  <Project Path="LeapYearCalculatorLib/LeapYearCalculatorLib.csproj" Id="d7c1292c-ec17-45d2-8705-b9d78bd0421b" />
+  <Project Path="SeasonsLib.Tests/SeasonsLib.Tests.csproj" Id="00d43ae6-cac7-4fd2-a07b-727f64b04b86" />
+  <Project Path="UserManagerLib.Tests/UserManagerLib.Tests.csproj" Id="c24187df-2915-4c1b-a3d6-f04e8d148afc" />
+  <Project Path="UserManagerLib/UserManagerLib.csproj" Id="754c9ad0-f47f-4d37-a78a-1dc65e696d85" />
+  <Project Path="UtilLib.Tests/UtilLib.Tests.csproj" Id="9c4437ad-a5e1-4263-a0cb-a634b991b9b5" />
+  <Project Path="UtilLib/UtilLib.csproj" Id="8ebced7c-722f-4618-981f-e9fcdd4d2994" />
+</Solution>
